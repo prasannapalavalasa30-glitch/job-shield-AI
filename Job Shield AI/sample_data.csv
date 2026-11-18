@@ -1,0 +1,67 @@
+title,company_profile,description,requirements,fraudulent
+"Software Engineer Intern","Acme Tech Solutions is a mid-sized software development firm specializing in cloud services.","We are looking for a motivated software engineering intern to assist in developing web applications. This internship offers a stipend of $1500 per month and potential full-time employment after 6 months.","Currently pursuing a B.Tech in Computer Science. Familiarity with Python and JavaScript is required.",0
+"Digital Marketing Intern","Global Reach Marketing is a leading digital marketing agency with offices worldwide.","Join our team to work on SEO, content creation, and social media campaigns. Stipend: $1200/month.","Undergraduate student in Marketing or Communications. Knowledge of Google Analytics preferred.",0
+"Data Analyst Intern","DataNova Analytics provides data-driven insights to Fortune 500 companies.","Assist senior analysts in data cleaning, visualization, and reporting. Remote work available. Stipend: $1300/month.","Must know Excel, SQL, and basic Python. Enrolled in a related degree program.",0
+"Junior Web Developer","Innovatech Solutions focuses on building innovative web platforms for startups.","Develop front-end features using React. Salary: $8,000 per month (no experience required).","B.Sc. in Computer Science or equivalent. Familiarity with HTML, CSS, JavaScript.",0
+"Customer Service Representative","BrightCall Services offers customer support solutions across multiple industries.","Handle inbound calls and chats. Training fee of $200 required upfront for certification. Salary: $2,500 per month.","High school diploma. Good communication skills.",1
+"Virtual Assistant","GlobalBiz Corp is a multinational consulting firm.","We need a virtual assistant for administrative tasks. Immediate payment of $500 via PayPal after signing a contract. Provide your bank details for processing fee of $50.","Excellent organizational skills, fluent English.",1
+"Content Writer","WriteWell Media produces articles for leading publications.","Write 5 articles per week. Pay $50 per article via bank transfer after submission.","Bachelor's degree in Journalism or related field.",0
+"Mobile App Developer","AlphaMobile creates cutting-edge mobile applications.","Develop Android apps using Kotlin. Salary: $10,000 per month, work from home.","2+ years experience in Android development.",0
+"Graphic Designer","DesignHub Studios offers freelance design services.","Create logos and marketing materials. Payment of $300 upfront for software license, then $200 per design.","Portfolio required.",1
+"AI Research Intern","FutureAI Labs is a startup focused on AI research.","Work on cutting-edge AI models. Stipend: $1,800/month.","Currently enrolled in a Master's program in AI or related field.",0
+"Social Media Manager","TrendWave Media specializes in viral marketing.","Manage social media accounts. Pay $1000 upfront for training materials, then $25 per post.","Experience managing Instagram and TikTok accounts.",1
+"Backend Engineer Intern","CloudSync Technologies provides cloud storage solutions.","Develop backend services using Node.js. Stipend $1,600/month.","Knowledge of REST APIs and databases.",0
+"Freelance Translator","LinguaBridge connects translators with clients globally.","Translate documents. Upfront payment of $100 via cryptocurrency required before starting.","Fluent in English and Spanish.",1
+"HR Intern","PeopleFirst HR offers HR solutions for SMBs.","Assist with recruitment and onboarding. Salary $1,200 per month, no experience needed.","Currently enrolled in HR or Business Administration.",0
+"Online Tutor","EduConnect provides tutoring services.","Teach high school math online. Upfront fee of $200 for platform access, then $30 per hour.","Bachelor's degree in Mathematics.",1
+"Data Entry Clerk","InfoStream Data Services processes large data sets.","Enter data into our system. Salary $1,000 per month, work from home.","Basic computer skills, attention to detail.",0
+"Quality Assurance Tester","Testify Labs offers QA services for software.","Test applications and report bugs. Stipend $1,400/month.","Familiar with bug tracking tools.",0
+"Sales Representative","SellFast Corp sells consumer electronics.","Earn $3,000 per month plus commission. No experience required. Provide your bank account for direct deposit.","Strong communication skills.",1
+"Research Assistant","BioGen Research focuses on biotech.","Assist in lab experiments. Stipend $1,200/month.","Enrolled in a life sciences program.",0
+"Front-End Developer","PixelPerfect Studios creates UI/UX designs.","Develop responsive websites. Salary $9,000 per month, remote.","Proficient in HTML, CSS, JavaScript.",1
+"Logistics Coordinator","QuickShip Logistics handles shipping worldwide.","Coordinate shipments. Salary $2,500 per month, provide bank details for payroll processing fee of $100.","Experience in logistics preferred.",1
+"Machine Learning Engineer Intern","AIForge AI builds ML models for finance.","Work on predictive models. Stipend $1,900/month.","Knowledge of Python, scikit-learn.",0
+"Customer Support Agent","HelpDesk Pro offers tech support services.","Answer tickets. Training fee $150 required upfront, then $1,800 per month salary.","Good problem-solving skills.",1
+"SEO Specialist","SearchBoost provides SEO services.","Optimize website rankings. Pay $500 upfront for keyword research, then $200 per month retainer.","Experience with SEO tools.",1
+"Product Manager Intern","InnovateNow is a product innovation firm.","Assist in product planning. Stipend $1,500/month.","Strong analytical skills.",0
+"Legal Assistant","LawEase provides legal document services.","Prepare legal documents. Salary $1,300 per month. Provide your bank account for processing fees.","Knowledge of legal terminology.",1
+"Data Scientist Intern","DataPulse Analytics offers data solutions.","Develop models for clients. Stipend $2,000/month.","Must know Python, pandas, ML concepts.",0
+"Virtual Event Coordinator","Eventify hosts online events globally.","Organize webinars. Payment $1000 upfront for platform subscription, then $20 per attendee.","Experience with event platforms.",1
+"Cybersecurity Analyst Intern","SecureNet provides security services.","Monitor threats. Stipend $1,700/month.","Familiar with network security basics.",0
+"E-commerce Specialist","ShopEasy is an online retail platform.","Manage product listings. Salary $2,200 per month, no experience required.","Basic understanding of e-commerce.",0
+"Recruiter","TalentBridge connects talent with companies.","Recruit candidates. Pay $500 upfront for certification, then $30 per successful placement.","Strong networking skills.",1
+"Finance Intern","MoneyMatters Finance offers personal finance advice.","Assist advisors. Stipend $1,400/month.","Pursuing finance degree.",0
+"Content Moderator","SafeNet moderates online forums.","Review user content. Salary $1,100 per month, work from home.","Attention to detail.",0
+"App Tester","MobilePlay develops games.","Test mobile games. Pay $200 upfront for device provisioning, then $15 per hour.","Interest in gaming.",1
+"Language Tutor","SpeakEasy connects language learners.","Teach English online. Upfront subscription fee $50, then $25 per hour.","TEFL certified.",1
+"Data Engineer Intern","StreamFlow Data processes big data pipelines.","Assist in building ETL jobs. Stipend $1,800/month.","Knowledge of Hadoop or Spark.",0
+"Customer Success Manager","ClientFirst focuses on SaaS products.","Ensure client satisfaction. Salary $3,000/month plus bonuses, no experience needed.","Strong interpersonal skills.",1
+"Research Analyst","MarketPulse provides market research.","Analyze market trends. Stipend $1,600/month.","Bachelor's in Business.",0
+"Email Marketing Specialist","MailPro sends marketing emails.","Create campaigns. Upfront fee $300 for email tool access, then $250 per month retainer.","Experience with Mailchimp.",1
+"Web Designer","DesignWave creates websites.","Design responsive sites. Salary $8,500 per month, remote.","Portfolio required.",1
+"Customer Feedback Analyst","FeedbackLoop analyses customer surveys.","Interpret feedback. Stipend $1,300/month.","Strong analytical skills.",0
+"Social Media Influencer Manager","StarPromo manages influencer campaigns.","Coordinate influencers. Pay $400 upfront for influencer database access, then $150 per campaign.","Experience in influencer marketing.",1
+"Technical Writer","DocuWrite creates technical documentation.","Write manuals. Salary $1,500 per month.","Excellent writing skills.",0
+"Graphic Illustrator","Artify Studios creates illustrations.","Create illustrations for apps. Payment $250 per illustration after a $100 upfront material fee.","Portfolio needed.",1
+"Customer Relations Intern","ConnectWorks handles client relations.","Assist in client communications. Stipend $1,200/month.","Good communication.",0
+"AI Prompt Engineer Intern","Promptify AI builds prompt engineering tools.","Develop prompt templates. Stipend $1,900/month.","Familiar with LLMs.",0
+"Online Survey Designer","SurveyHub creates surveys for research.","Design surveys. Upfront cost $150 for survey platform access, then $50 per survey.","Experience with survey tools.",1
+"Translator (French)","GlobalTranslate offers translation services.","Translate documents from English to French. Upfront fee $80 for software license.","Fluent French and English.",1
+"HR Recruiter Intern","HireRight provides recruitment services.","Source candidates. Salary $1,100 per month.","Enrolled in HR program.",0
+"Financial Analyst Intern","FinEdge offers financial consulting.","Analyze financial statements. Stipend $1,700/month.","Pursuing finance degree.",0
+"Customer Acquisition Specialist","GrowthHub drives customer acquisition.","Generate leads. Pay $500 upfront for lead database, then $20 per qualified lead.","Experience in sales.",1
+"Software Tester","BugBusters tests software for bugs.","Test applications. Salary $2,000 per month, provide bank details for salary deposit.","Attention to detail.",0
+"Virtual Recruiter","HireNow provides remote recruitment.","Recruit remote talent. Upfront payment $300 for platform subscription, then $30 per hire.","Strong networking.",1
+"Social Media Content Creator","BuzzMedia creates viral content.","Create TikTok videos. Pay $150 per video after $50 upfront equipment fee.","Creative mindset.",1
+"Data Visualization Intern","VizPro creates dashboards.","Build visualizations in Tableau. Stipend $1,500/month.","Experience with Tableau.",0
+"Customer Experience Analyst","ExperiencePlus analyses CX data.","Analyze CX surveys. Salary $1,300/month.","Analytical skills.",0
+"E-learning Content Developer","Learnify designs e-learning modules.","Create courses. Payment $200 upfront for authoring tool, then $30 per module.","Instructional design experience.",1
+"Product Copywriter","AdCopy writes ad copy.","Write ad copy. Pay $75 per piece after $25 upfront research fee.","Strong copywriting skills.",1
+"Finance Assistant","BudgetWise assists in budgeting.","Help prepare budgets. Stipend $1,200/month.","Finance student.",0
+"Customer Support Intern","HelpNow provides support tickets.","Answer tickets. Salary $1,000/month, no experience needed.","Good communication.",0
+"AI Ethics Intern","EthicAI studies AI impact.","Research AI ethics. Stipend $1,800/month.","Interest in AI policy.",0
+"Marketing Intern","BrandBoost helps brands grow.","Assist marketing campaigns. Salary $1,200/month. Provide bank details for payroll processing fee of $75.","Marketing student.",1
+"Web Content Editor","ContentFlow edits web articles.","Edit articles. Payment $80 per article after $20 upfront tool subscription.","Excellent grammar.",1
+"Data Analyst","DataInsights provides analytics.","Analyze datasets. Salary $3,000 per month, remote.","Proficient in Python.",0
+"Customer Success Intern","SuccessPlus supports SaaS users.","Assist success team. Stipend $1,300/month.","Customer-centric mindset.",0
+"HR Intern","PeopleConnect offers HR consulting.","Assist HR tasks. Salary $1,100 per month.","Enrolled in HR program.",0
